@@ -1,0 +1,11 @@
+.pop-image{
+    padding: 5px 5px 5px 5px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(179, 179, 180);
+}
+.my-image{
+    margin: 0px 0px 0px 0px;
+    width: 600px;
+    height: 600px;
+}
